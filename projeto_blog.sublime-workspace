@@ -1,0 +1,199 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Batallion Server/BattalionWindowsServer_10747/WindowsServer/Run.bat",
+		"/D/Batallion Server/BattalionWindowsServer_10747/WindowsServer/DefaultGame.ini",
+		"/C/git/first-django-website/helloapp/manage.py",
+		"/C/git/ismaapp/Procfile",
+		"/C/git/ismaapp/helloapp/settings.py",
+		"/C/git/ismaapp/helloapp/wsgi.py",
+		"/C/git/ismaapp/helloapp/__init__.py",
+		"/C/git/ismaapp/manage.py",
+		"/C/git/ismaapp/Procfile.windows",
+		"/C/git/python-getting-started/Procfile",
+		"/C/git/first-django-website/helloapp/howdy/admin.py",
+		"/C/git/first-django-website/helloapp/howdy/apps.py",
+		"/C/git/first-django-website/helloapp/howdy/models.py",
+		"/C/git/first-django-website/helloapp/howdy/tests.py",
+		"/C/git/first-django-website/helloapp/howdy/urls.py",
+		"/C/git/first-django-website/helloapp/howdy/views.py",
+		"/C/git/first-django-website/helloapp/helloapp/wsgi.py",
+		"/C/git/first-django-website/helloapp/helloapp/urls.py",
+		"/C/git/first-django-website/helloapp/helloapp/__init__.py",
+		"/C/git/first-django-website/helloapp/helloapp/settings.py",
+		"/C/git/ismaapp/helloapp/urls.py",
+		"/C/git/first-django-website/helloapp/requirements.txt",
+		"/C/git/ismaapp/howdy/apps.py",
+		"/C/git/ismaapp/howdy/views.py",
+		"/C/git/python-getting-started/Procfile.windows",
+		"/C/git/python-getting-started/hello/views.py",
+		"/C/git/python-getting-started/Pipfile",
+		"/C/Dev/projetos/helloapp/howdy/templates/about.html",
+		"/C/Dev/projetos/helloapp/howdy/templates/index.html",
+		"/C/Dev/projetos/helloapp/howdy/views.py",
+		"/C/Dev/projetos/helloapp/howdy/urls.py",
+		"/C/Dev/projetos/helloapp/helloapp/urls.py",
+		"/C/Dev/projetos/helloapp/manage.py",
+		"/C/Dev/projetos/helloapp/helloapp/settings.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"psycop"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "projeto_blog.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

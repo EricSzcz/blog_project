@@ -25,7 +25,9 @@ SECRET_KEY = '%(sn^c(%#c6^g3a=xkfmb$se=izg-jyf5%^4zelp7-x1dkwnu$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['blogprojecteric.herokuapp.com']
+ALLOWED_HOSTS = ['ericszcz.pythonanywhere.com',
+                 'blogprojecteric.herokuapp.com'
+]
 
 
 # Application definition

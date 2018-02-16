@@ -55,12 +55,12 @@ def post_list(request):
 			Q(user__first_name__icontains=query) |
 			Q(user__last_name__icontains=query)
 			).distinct()
-	paginator = Paginator(queryset_list, 2) # Show 25 contacts per page
+	paginator = Paginator(queryset_list, 10) # Show 25 contacts per page
 	page = request.GET.get('page')
 	queryset = paginator.get_page(page)
 	context = {
 		"object_list": queryset,
-		"title":"Um blog de Mesa",
+		"title":"Szczepanik",
 		"page": page,	
 		"today"	: today,
 	}

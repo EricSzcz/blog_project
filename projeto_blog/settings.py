@@ -26,7 +26,8 @@ SECRET_KEY = '%(sn^c(%#c6^g3a=xkfmb$se=izg-jyf5%^4zelp7-x1dkwnu$'
 DEBUG = True
 
 ALLOWED_HOSTS = ['ericszcz.pythonanywhere.com',
-                 'blogprojecteric.herokuapp.com'
+                 'blogprojecteric.herokuapp.com',
+                 '127.0.0.1'
 ]
 
 
